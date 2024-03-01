@@ -2,7 +2,7 @@
 
 Hello,
 
-Thank you for taking the time to review my Belly Button App for Module 14.
+Thank you for taking the time to review my Belly Button App for Module 14. For best results please download/save/copy the files/code over to visual studio code for running the app.
 
 The data from the samples.json file is located within starter_code 10 and startercode folders.
 
