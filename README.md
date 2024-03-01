@@ -8,7 +8,7 @@ The data from the samples.json file is located within starter_code 10 and starte
 
 Please view my Javascript code to view the formatting of the app.
 
-You can find my Javascript code file by clicking the folders on this repo in thi order:
+You can find my Javascript code file by clicking the folders on this repo in this order:
 - starter_code 10
 - startercode
 - static
