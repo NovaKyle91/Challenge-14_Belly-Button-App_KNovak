@@ -3,17 +3,17 @@
 Hello,
 Thank you for taking the time to review my Belly Button App for Module 14.
 
-The data from the samples.json file is located within starter_code 10 and starter code folders.
+The data from the samples.json file is located within starter_code 10 and startercode folders.
 
 Please viw my Javascript code to view the formatting of the app.
 You can find my Javascript code file by clicking the folders on this repo in thi order:
 - starter_code 10
-- starter vode
+- startercode
 - static
 - js
 - and finally app.js (sorry for the depth in files, but I am aware that it should be easier to find).
 
-In order to view the app please find the index.html file located within starter_code 10 and starter code folders.
+In order to view the app please find the index.html file located within starter_code 10 and startercode folders.
 When you have opened the index.html file, a quick and easy way to view the app is to right click anywhere within the code and go down to open in other browsers and select the browser that works best for you.
 For reference this is the web address for the app when opened in the browser and below are screen grabs of what the app looks like upon arrival.
   file:///Users/kpnovak91/UCI%20Data%20Analytics%20Bootcamp/Challenges:Homework/Challenge%2014/Starter_Code%2010/StarterCode/index.html
